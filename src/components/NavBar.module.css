@@ -1,0 +1,12 @@
+.text {
+  color: black;
+}
+.bar {
+  height: 50px;
+}
+
+@media screen and (min-width: 900px) {
+  .bar {
+    height: 65px;
+  }
+}
